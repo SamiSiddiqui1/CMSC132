@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132
+#  Project G2: Group Project 2
+
+courseName=CMSC132
+semester=201605
+projectNumber=G2
+courseKey=4956b1390af4f6df
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/summer2016
+submitURL=https://submit.cs.umd.edu:443/summer2016/eclipse/SubmitProjectViaEclipse
